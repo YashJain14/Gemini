@@ -1,4 +1,4 @@
-# Gradio Chat UI with GenerativeAI Integration
+# Gradio UI for Gemini-Pro-Vision
 
 This project integrates Gradio, an easy-to-use UI library for creating machine learning models, with GenerativeAI from Google to enable conversational experiences with text and image inputs.
 
