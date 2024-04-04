@@ -18,7 +18,7 @@ This project integrates Gradio, an easy-to-use UI library for creating machine l
 
 3. Set up your Google API key:
 
-    - Obtain an API key from Google Cloud Console.
+    - Obtain an API key from [Google AI Studio](https://ai.google.dev/).
     - Set the API key as an environment variable:
 
         ```bash
