@@ -22,15 +22,15 @@ This project integrates Gradio, an easy-to-use UI library for creating machine l
     - Set the API key as an environment variable:
 
         ```bash
-        GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+        GOOGLE_API_KEY="API_KEY_HERE"
         ```
 
 ## Usage
 
-1. Run the `app.py` script:
+1. Run the `multimodal.py` script:
 
     ```bash
-    python app.py
+    python multimodal.py
     ```
 
 2. Access the application via the provided URL (typically http://127.0.0.1:7860/) in your web browser.
